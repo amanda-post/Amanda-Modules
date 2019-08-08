@@ -1,11 +1,14 @@
 # Arc'teryx Front-End Capstone - Amanda's Modules
 
-> In this project, my teammates and I created a copy of an Arc'teryx web application page. We will be re-creating the aesthetics and interactivity of the page as accurately as possible--when someone opens our app, it should feel indistinguishable from the real thing. Except, in the case that we find something that we can optimize to improve performance.
+- In this project, my teammates and I created a copy of an Arc'teryx web application page. We will be re-creating the aesthetics and interactivity of the page as accurately as possible--when someone opens our app, it should feel indistinguishable from the real thing. Except, in the case that we find something that we can optimize to improve performance.
 
-> I was responsible for the product detail and product viewer.
+- I was responsible for the product detail and product viewer.
 
->> The product detail module shows information about a given product, and shows available sizes and colors.
->> The product viewer module shows one main image, and when clicked, opens up a modal for infinite-loop viewing of the available images for a product.
+    - The product detail module shows information about a given product, and shows available sizes and colors.
+    - The product viewer module shows one main image, and when clicked, opens up a modal for infinite-loop viewing of the available images for a product.
+    
+![Showing Product Details](https://media.giphy.com/media/lMmCq7H4ECL7Ox4kT9/giphy.gif)
+![Showing Product Viewer](https://media.giphy.com/media/Ifsn6SMnIFAhGCS4fs/giphy.gif)
 
 ## Related Projects
 
